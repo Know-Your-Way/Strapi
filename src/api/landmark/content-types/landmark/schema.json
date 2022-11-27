@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "landmarks",
+  "info": {
+    "singularName": "landmark",
+    "pluralName": "landmarks",
+    "displayName": "landmark"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Coordinates": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "Phone": {
+      "type": "integer"
+    },
+    "Website": {
+      "type": "string"
+    }
+  }
+}
