@@ -30,7 +30,7 @@
     "category": {
       "type": "string"
     },
-    "test": {
+    "name": {
       "type": "string"
     }
   }
